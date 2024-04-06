@@ -1,0 +1,15 @@
+{
+    "name": "Upbeat Radio",
+    "shortcode": "upbeatradio",
+    "aliases": ["upbeat", "ub"],
+    "description": "UpBeat is a non-profit international radio which strives to provide non-stop, quality radio and news entertainment.",
+    "logoURL": "https://upbeatradio.net/staff/_assets/_avatarImages/default/default.png?3",
+    "streamURL": "https://live.upbeat.pw/",
+    "websiteURL": "https://upbeatradio.net/",
+    "api": {
+        "baseUrl": "https://upbeatradio.net/api/stats",
+        "title": "song.title",
+        "artist": "song.artist",
+        "art": "song.art"
+    }
+}
