@@ -1,0 +1,15 @@
+{
+    "name": "PLAY Radio",
+    "shortcode": "playradio",
+    "aliases": ["play", "playradio"],
+    "description": null,
+    "logoURL": "https://playradio.pw/assets/splash/img/brand/square.png",
+    "streamURL": "https://live.playradio.pw/",
+    "websiteURL": "https://playradio.pw/",
+    "api": {
+        "baseUrl": "https://playradio.pw/api/stats",
+        "title": "nowplaying.song.title",
+        "artist": "nowplaying.song.artist",
+        "art": "nowplaying.song.art"
+    }
+}
