@@ -7,7 +7,7 @@
     "streamURL": "https://live.upbeat.pw/",
     "websiteURL": "https://upbeatradio.net/",
     "api": {
-        "baseUrl": "https://upbeatradio.net/api/stats",
+        "baseUrl": "https://upbeatradio.net/api/v1/stats",
         "title": "song.title",
         "artist": "song.artist",
         "art": "song.art"
